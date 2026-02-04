@@ -2,8 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mint Starter Kit",
-  "domain": "docs.autonexus.com",
-  "preview": "preview.autonexus.com",
+  "domain": "revoluter.dev",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
